@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* My Custom CSS */
+body {
+    background-color: grey;
+}
+
+.container-fluid {
+    background-color: grey;
+}
+
+.boxed {
+    background-color: slateblue;
+    color: white;
+}
+
+.text1 {
+    background-color: darkslategray;
+    color: white;
+}
